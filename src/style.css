@@ -48,6 +48,13 @@ select{
     border-radius: 2px;
     margin-bottom: 30px;
 }
+a{
+    text-decoration: none;
+    color: rgb(95, 101, 109);
+}
+a:hover{
+    color: red;
+}
 footer{
     text-align: center;
     text-decoration: none;
