@@ -15,21 +15,23 @@ body{
     display: flex;
     justify-content: space-between;
     border-bottom: 1px dashed #999999;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+   
 }
 h2{
-    margin: 27px;
-    
+    font-size: 30px;
 }
 .date{
-    margin: 27px;
+    
     font-weight: bold;
     opacity: 0.4;
+    margin-bottom: 40px;
 }
 .time{
-    margin: 27px;
+    margin: 25px;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 39px;
+    margin-top: 32px;
 }
 small{
     font-size: 15px;
